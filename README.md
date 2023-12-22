@@ -44,12 +44,13 @@ I thank [@hamitmizrak](https://github.com/hamitmizrak/) and [@BTKAkademi](https:
 #
 
 
-# Home Screen
+# Project View
 
-![projectPageLight](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/0d3e4199-868c-4acd-857a-5313904c2fac)![blogPage](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/049cc584-95a3-4c30-96fe-d3a6e4f6adbc)![contactpage](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/8c1c644b-3d92-41de-870a-5cd571514832)
-
-
-
+![projectPageLight](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/0cfddd29-3ca7-431a-a87f-891f5402d280)
+![blogPage](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/ab4c64ce-873d-45a6-bfff-5a6bab7aea00)
+![aboutMe](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/88c244d7-5eba-4230-86bb-4f76b38a9269)
+![contact](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/e31d0506-1872-4fbe-8c54-de5ceab738a9)
+![admin](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/115c7bf8-ae21-4190-8153-f4a88b873a93)
 
 </br>
 
