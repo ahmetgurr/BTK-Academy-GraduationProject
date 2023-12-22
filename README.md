@@ -3,48 +3,32 @@
 This repository contains the Onepage graduation project made for BTK-Akademi Front end training bootcamp. </br>
 
 ## Requirements and Technologies Used
-
--Visual Studio Code 
--Html5 
--CSS3 
--Javascript 
--Bootstrap5 
--React Js 
--Git 
--Gitlab, Github 
--API
--Postman
--git push -u github master
-
-## Requirements and Technologies Used
--Visual Studio Code 
--Html5 
--CSS3 
--Javascript 
--Bootstrap5 
--React Js 
--Git 
--Gitlab, Github 
--API
--Postman
--git push -u github master
+ - Visual Studio Code
+ - Html5
+ - CSS3 
+ - Javascript 
+ - Bootstrap5 
+ - React Js 
+ - Git 
+ - Gitlab, Github 
+ - API
+ - Postman
+ - git push -u github master
 
 ## Application Features
 
--One page pattern
--Login / Register 
--I18N özelliği 
--Axios libraries
--Router libraries 
--Bootstrap5 
--FontAwesome 
--Google Font (Poppins) 
--ScrollSpy 
--Back to Top
+ - One page pattern
+ - Login / Register 
+ - I18N özelliği 
+ - Axios libraries
+ - Router libraries 
+ - Bootstrap5 
+ - FontAwesome 
+ - Google Font (Poppins) 
+ - ScrollSpy 
+ - Back to Top
 
-
-
-Katkıları için @hamitmizrak ve @BTKAkademi’ye teşekkür ederim.
+I thank @hamitmizrak and @BTKAkademi for their contributions.
 
 ## Home Page Light & Dark
 
