@@ -47,7 +47,7 @@ I thank [@hamitmizrak](https://github.com/hamitmizrak/) and [@BTKAkademi](https:
 # Home Screen
 
 | projectPageLight | blogPage | contactpage |
-| ---------------------------- | ---------------------------- |---------------------------- |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 ![projectPageLight](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/0d3e4199-868c-4acd-857a-5313904c2fac)![blogPage](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/049cc584-95a3-4c30-96fe-d3a6e4f6adbc)![contactpage](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/8c1c644b-3d92-41de-870a-5cd571514832)
 
 
