@@ -28,7 +28,7 @@ This repository contains the Onepage graduation project made for BTK-Akademi Fro
  - ScrollSpy 
  - Back to Top
 
-I thank @hamitmizrak and @BTKAkademi for their contributions.
+I thank [@hamitmizrak](https://github.com/hamitmizrak/) and [@BTKAkademi](https://www.btkakademi.gov.tr/) for their contributions.
 
 ## Home Page Light & Dark
 
