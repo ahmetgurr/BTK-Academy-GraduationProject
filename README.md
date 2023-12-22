@@ -2,6 +2,19 @@
 
 This repository contains the Onepage graduation project made for BTK-Akademi Front end training bootcamp. </br>
 
+## Home Page Light & Dark
+
+| Home Page Light |
+| ---------------------------- |
+![Uygulama Ekran Görüntüsü](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/70cc738d-bbb0-4e8d-9ecf-dd53a1ca22bc)
+#
+#
+| Home Page Dark |
+| ---------------------------- |
+![Uygulama Ekran Görüntüsü](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/6996fe55-5735-4dfb-81c7-b79bee6995c7)
+#
+
+
 ## Requirements and Technologies Used
  - Visual Studio Code
  - Html5
@@ -30,18 +43,6 @@ This repository contains the Onepage graduation project made for BTK-Akademi Fro
 
 I thank [@hamitmizrak](https://github.com/hamitmizrak/) and [@BTKAkademi](https://www.btkakademi.gov.tr/) for their contributions.
 
-## Home Page Light & Dark
-
-#
-| Home Page Light |
-| ---------------------------- |
-![Uygulama Ekran Görüntüsü](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/70cc738d-bbb0-4e8d-9ecf-dd53a1ca22bc)
-#
-#
-| Home Page Dark |
-| ---------------------------- |
-![Uygulama Ekran Görüntüsü](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/6996fe55-5735-4dfb-81c7-b79bee6995c7)
-#
 
 
 # Project View
