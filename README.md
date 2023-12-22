@@ -39,7 +39,7 @@ Katkıları için @hamitmizrak ve BTKAkademi’ye teşekkür ederim.
 ## Register and Login Page
 
 | Home Page Light | Home Page Dark |
-| --------------- | --------------- |
+| --------------------------------------------- | --------------------------------------------- |
 ![MainPageLight](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/70cc738d-bbb0-4e8d-9ecf-dd53a1ca22bc)
 |![HomePageDark](https://github.com/ahmetgurr/BTK-Academy-GraduationProject/assets/92628011/6996fe55-5735-4dfb-81c7-b79bee6995c7)
 |
