@@ -16,6 +16,19 @@ This repository contains the Onepage graduation project made for BTK-Akademi Fro
 -Postman
 -git push -u github master
 
+## Requirements and Technologies Used
+-Visual Studio Code 
+-Html5 
+-CSS3 
+-Javascript 
+-Bootstrap5 
+-React Js 
+-Git 
+-Gitlab, Github 
+-API
+-Postman
+-git push -u github master
+
 ## Application Features
 
 -One page pattern
